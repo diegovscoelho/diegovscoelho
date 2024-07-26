@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovscoelho&layout=compact)](https://github.com/diegovscoelho/github-readme-stats)
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegovscoelho&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovscoelho&layout=compact&theme=tokyonight)](https://github.com/diegovscoelho/github-readme-stats)
