@@ -4,5 +4,5 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovscoelho&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&locale=pt-br&title_color=ffffff&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovscoelho&size_weight=0.5&count_weight=0.5&theme=algolia&locale=pt-br&title_color=ffffff&text_color=ffffff" />
 </div>
