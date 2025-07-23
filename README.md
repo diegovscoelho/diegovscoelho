@@ -2,7 +2,7 @@
 
 🔭 Trabalho na **Personal Fit**
 
-🌱 Atualmente estou aprendendo **Kotlin**
+🌱 Atualmente estou aprendendo **Desenvolvimento Fullstack com Angular.js e Spring**
 
 📫 Contato: **dcoelhocarneiro@gmail.com**
 
