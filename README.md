@@ -6,7 +6,6 @@
 
 📫 Contato: **dcoelhocarneiro@gmail.com**
 
-<br>
 
 <h2 align="left">Linguagens e tecnologias que utilizo:</h2>
 
