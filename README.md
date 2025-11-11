@@ -2,7 +2,7 @@
 
 🔭 Trabalho na **Personal Fit**
 
-🌱 Atualmente estou aprendendo **Desenvolvimento Fullstack com Angular.js e Spring**
+🌱  Atualmente, estou focado no meu aprendizado em **Desenvolvimento Backend com Node.js**
 
 📫 Contato: **dcoelhocarneiro@gmail.com**
 
