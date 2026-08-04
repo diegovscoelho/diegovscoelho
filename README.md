@@ -1,8 +1,8 @@
 <h2 align="start">Olá, me chamo Diego👋</h2>
 
-🔭 Trabalho na **Personal Fit**
+🔭 Trabalho na **DoubleX**
 
-🌱  Atualmente, estou focado no meu aprendizado em **Desenvolvimento Backend com Node.js**
+🌱  Atualmente, estou focado no meu aprendizado em **Arquitetura de Software**
 
 📫 Contato: **dcoelhocarneiro@gmail.com**
 
